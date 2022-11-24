@@ -1,5 +1,5 @@
 # PLEASE WRITE THE GITHUB URL BELOW!
-# https://github.com/gintooooonic
+# https://github.com/gintooooonic/oss-project-2
 
 import sys
 import pandas as pd
